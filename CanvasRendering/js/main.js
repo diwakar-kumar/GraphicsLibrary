@@ -17,8 +17,7 @@ window.onload = function(){
 	// 	var x = ang * 200,
 	// 		y = Math.cos(ang)*200;
 	// 		context.fillRect( x, y, 5, 5 );
-	// };Math
-
+	// };mAT
 	var circle = {
 		x: 326,
 		y: 229.5,
